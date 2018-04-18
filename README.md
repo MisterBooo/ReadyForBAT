@@ -17,7 +17,8 @@
 12.第三方库相关面试问题  
 ## 1.UI视图相关面试问题思维导图
 ![](http://oriq21dog.bkt.clouddn.com/bloc/2018-04-18-UI%E8%A7%86%E5%9B%BE.jpg)
-## 2.Objective-C语言特性相关面试问题  
+## 2.Objective-C语言特性相关面试问题 
+![](http://oriq21dog.bkt.clouddn.com/bloc/2018-04-18-Objective-C%E8%AF%AD%E8%A8%80%E7%89%B9%E6%80%A7.jpg) 
 ## 3.Runtime相关面试问题思维导图 
 ## 4.内存管理相关面试问题思维导图  
 ## 5.Block相关面试问题思维导图 
