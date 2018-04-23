@@ -21,7 +21,7 @@
 ## 1.UI视图相关面试问题思维导图
 ![](http://oriq21dog.bkt.clouddn.com/bloc/2018-04-19-UI%E8%A7%86%E5%9B%BE%E7%9B%B8%E5%85%B3.png)
 ## 2.Objective-C语言特性相关面试问题 
-![](http://oriq21dog.bkt.clouddn.com/bloc/2018-04-19-Objective-C%E8%AF%AD%E8%A8%80%E7%89%B9%E6%80%A7.png)
+![](http://oriq21dog.bkt.clouddn.com/bloc/2018-04-23-Objective-C%E8%AF%AD%E8%A8%80%E7%89%B9%E6%80%A7.png)
 ## 3.Runtime相关面试问题思维导图 
 ![](http://oriq21dog.bkt.clouddn.com/bloc/2018-04-23-Runtime.png)
 ## 4.内存管理相关面试问题思维导图  
