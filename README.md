@@ -1,9 +1,9 @@
-# ReadyForBAT  
+# iOS面试准备之思维导图 
 
-> 前言：以思维导图的方式呈现iOS常见的面试题知识点，对每个知识点进行简洁的总结，并在之后进行深入剖析。希望做到在面试的时候可以口语化说出面试官希望的答案，同时对于每个问题自己又能有所了解。  
+> 以思维导图的方式对iOS常见的面试题知识点进行梳理复习，[文章xmind与图片地址点这](https://github.com/MisterBooo/ReadyForBAT)
 
 # 目录  
-1.UI视图相关面试问题思维导图  
+1.UI视图相关面试问题  
 2.Objective-C语言特性相关面试问题  
 3.Runtime相关面试问题  
 4.内存管理相关面试问题  
@@ -23,6 +23,7 @@
 ## 2.Objective-C语言特性相关面试问题 
 ![](http://oriq21dog.bkt.clouddn.com/bloc/2018-04-19-Objective-C%E8%AF%AD%E8%A8%80%E7%89%B9%E6%80%A7.png)
 ## 3.Runtime相关面试问题思维导图 
+![](http://oriq21dog.bkt.clouddn.com/bloc/2018-04-23-Runtime.png)
 ## 4.内存管理相关面试问题思维导图  
 ## 5.Block相关面试问题思维导图 
 ## 6.多线程相关面试问题思维导图  
