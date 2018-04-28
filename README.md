@@ -1,6 +1,6 @@
 # iOS面试准备之思维导图 
 
-> 以思维导图的方式对iOS常见的面试题知识点进行梳理复习，[文章xmind点这下载](https://github.com/MisterBooo/ReadyForBAT/tree/master/思维导图)，[文章图片太大查看不了也点这下载](https://github.com/MisterBooo/ReadyForBAT/tree/master/思维导图)
+> 以思维导图的方式对iOS常见的面试题知识点进行梳理复习，[文章xmind点这下载](https://github.com/MisterBooo/ReadyForBAT)，[文章图片太大查看不了也点这下载](https://github.com/MisterBooo/ReadyForBAT)
 
 # 目录  
 1.UI视图相关面试问题  
@@ -32,6 +32,7 @@
 ## 6.多线程相关面试问题思维导图  
 ![](http://oriq21dog.bkt.clouddn.com/bloc/2018-04-28-%E5%A4%9A%E7%BA%BF%E7%A8%8B.png)
 ## 7.RunLoop相关面试问题思维导图
+![](http://oriq21dog.bkt.clouddn.com/bloc/2018-04-28-RunLoop.png)
 ## 8.网络相关面试问题思维导图
 ## 9.设计模式相关面试问题思维导图
 ## 10.架构/框架相关面试问题思维导图
