@@ -30,6 +30,7 @@
 ## 5.Block相关面试问题思维导图 
 ![](http://oriq21dog.bkt.clouddn.com/bloc/2018-04-27-Block.png)
 ## 6.多线程相关面试问题思维导图  
+![](http://oriq21dog.bkt.clouddn.com/bloc/2018-04-28-%E5%A4%9A%E7%BA%BF%E7%A8%8B.png)
 ## 7.RunLoop相关面试问题思维导图
 ## 8.网络相关面试问题思维导图
 ## 9.设计模式相关面试问题思维导图
