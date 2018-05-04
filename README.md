@@ -36,6 +36,7 @@
 ## 8.网络相关面试问题思维导图
 ![](http://oriq21dog.bkt.clouddn.com/bloc/2018-05-03-%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3.png)
 ## 9.设计模式相关面试问题思维导图
+![](http://oriq21dog.bkt.clouddn.com/bloc/2018-05-04-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.png)
 ## 10.架构/框架相关面试问题思维导图
 ## 11.算法相关面试问题思维导图
 ## 12.第三方库相关面试问题思维导图

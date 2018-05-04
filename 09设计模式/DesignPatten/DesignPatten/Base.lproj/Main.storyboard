@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="STN-In-5BX">
+                                <rect key="frame" x="33" y="143" width="62" height="30"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="30" id="RjV-6Z-CXM"/>
+                                    <constraint firstAttribute="width" constant="62" id="cX7-WE-5dG"/>
+                                </constraints>
+                                <state key="normal" title="桥接模式"/>
+                                <connections>
+                                    <action selector="bridgeDemo:" destination="BYZ-38-t0r" eventType="touchUpInside" id="1Hb-Sa-D4y"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="spD-Ti-zW1">
+                                <rect key="frame" x="164" y="143" width="46" height="30"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="46" id="0Nc-ik-PVy"/>
+                                    <constraint firstAttribute="height" constant="30" id="Fn6-oP-mRU"/>
+                                </constraints>
+                                <state key="normal" title="适配器"/>
+                                <connections>
+                                    <action selector="adapterDemo:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Bwk-7M-0st"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="spD-Ti-zW1" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="123" id="2Vg-0B-PK3"/>
+                            <constraint firstItem="STN-In-5BX" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="33" id="5LN-B5-ju7"/>
+                            <constraint firstItem="spD-Ti-zW1" firstAttribute="leading" secondItem="STN-In-5BX" secondAttribute="trailing" constant="69" id="E9o-8l-S9B"/>
+                            <constraint firstItem="STN-In-5BX" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="123" id="OKC-AU-8Va"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+        </scene>
+    </scenes>
+</document>
