@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Cde-9J-tOJ">
+                                <rect key="frame" x="36" y="137" width="100" height="30"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="30" id="dSx-10-7RQ"/>
+                                    <constraint firstAttribute="width" constant="100" id="lcj-3R-xSW"/>
+                                </constraints>
+                                <state key="normal" title="字符串反转"/>
+                                <connections>
+                                    <action selector="CharReverse:" destination="BYZ-38-t0r" eventType="touchUpInside" id="5ym-kY-quO"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="I am the  lable text,click button to test me !" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oqp-UT-doq">
+                                <rect key="frame" x="0.0" y="84" width="375" height="26"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="26" id="VSe-81-qs4"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" red="0.46901197709999998" green="0.26696798690000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="24R-at-0fh">
+                                <rect key="frame" x="49" y="204" width="62" height="30"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="30" id="Nck-kf-NYs"/>
+                                    <constraint firstAttribute="width" constant="62" id="Wfk-YA-bHf"/>
+                                </constraints>
+                                <state key="normal" title="链表反转"/>
+                                <connections>
+                                    <action selector="ReverseList:" destination="BYZ-38-t0r" eventType="touchUpInside" id="S8d-PT-ioK"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="oqp-UT-doq" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="64" id="O6k-au-8iU"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="oqp-UT-doq" secondAttribute="trailing" id="cvG-Ab-Tzj"/>
+                            <constraint firstItem="24R-at-0fh" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="49" id="mQm-uy-O7u"/>
+                            <constraint firstItem="24R-at-0fh" firstAttribute="top" secondItem="Cde-9J-tOJ" secondAttribute="bottom" constant="37" id="pch-L7-IN7"/>
+                            <constraint firstItem="Cde-9J-tOJ" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="36" id="tAF-dK-4HS"/>
+                            <constraint firstItem="oqp-UT-doq" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="wPW-Bp-31N"/>
+                            <constraint firstItem="Cde-9J-tOJ" firstAttribute="top" secondItem="oqp-UT-doq" secondAttribute="bottom" constant="27" id="xPI-r3-gaq"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                    <connections>
+                        <outlet property="label" destination="oqp-UT-doq" id="Kyz-Z3-zDA"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+        </scene>
+    </scenes>
+</document>

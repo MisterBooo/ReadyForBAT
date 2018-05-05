@@ -40,6 +40,7 @@
 ## 10.架构/框架相关面试问题思维导图
 ![](http://oriq21dog.bkt.clouddn.com/bloc/2018-05-04-%E6%9E%B6%E6%9E%84-%E6%A1%86%E6%9E%B6.png)
 ## 11.算法相关面试问题思维导图
+![](http://oriq21dog.bkt.clouddn.com/bloc/2018-05-05-%E7%AE%97%E6%B3%95.png)
 ## 12.第三方库相关面试问题思维导图
 ![](http://oriq21dog.bkt.clouddn.com/bloc/2018-05-05-%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%93.png)
 ## 13.性能优化相关面试问题思维导图  
