@@ -46,6 +46,6 @@
 ## 13.性能优化相关面试问题思维导图  
 ## 14.音视频相关面试问题思维导图
 ## 15.核心动画相关面试问题思维导图
-#### 欢迎关注
-![](https://user-gold-cdn.xitu.io/2018/10/29/166bdc7cde6c4fd8?w=258&h=258&f=jpeg&s=27779)
+#### 更多面试内容
+https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181103092220.png
 
