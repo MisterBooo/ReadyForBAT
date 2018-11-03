@@ -47,5 +47,6 @@
 ## 14.音视频相关面试问题思维导图
 ## 15.核心动画相关面试问题思维导图
 #### 更多面试内容
-https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181103092220.png
+![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181103092220.png)
+
 
