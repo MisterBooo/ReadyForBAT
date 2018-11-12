@@ -2,8 +2,6 @@
 
 > 以思维导图的方式对iOS常见的面试题知识点进行梳理复习，[文章xmind点这下载](https://github.com/MisterBooo/ReadyForBAT)，[文章图片太大查看不了也点这下载](https://github.com/MisterBooo/ReadyForBAT)
 
-#### 更多面试内容
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181103092220.png)
 
 # 目录  
 1.UI视图相关面试问题  
@@ -49,6 +47,6 @@
 ## 13.性能优化相关面试问题思维导图  
 ## 14.音视频相关面试问题思维导图
 ## 15.核心动画相关面试问题思维导图
-
+![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181112165426.jpg)
 
 
