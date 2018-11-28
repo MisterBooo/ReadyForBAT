@@ -47,6 +47,6 @@
 ## 13.性能优化相关面试问题思维导图  
 ## 14.音视频相关面试问题思维导图
 ## 15.核心动画相关面试问题思维导图
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181112165426.jpg)
-
+## 欢迎关注 五分钟学算法 获取更多内容
+![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181128165711.jpg)
 
