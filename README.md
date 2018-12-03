@@ -2,7 +2,9 @@
 
 > 以思维导图的方式对iOS常见的面试题知识点进行梳理复习，[文章xmind点这下载](https://github.com/MisterBooo/ReadyForBAT)，[文章图片太大查看不了也点这下载](https://github.com/MisterBooo/ReadyForBAT)
 
-> 你可以在公众号 **五分钟学算法** 获取更多数据结构与算法相关的内容，公众号回复 **github**获取十大经典排序动画。
+> 你可以在公众号 **五分钟学算法** 获取数据结构与算法相关的内容，准备算法面试
+
+> 公众号回复 **github** 获取十大经典排序动画。
 
 
 # 目录  
