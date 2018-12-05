@@ -29,9 +29,9 @@
 ## 2.Objective-C语言特性相关面试问题 
 ![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181205171159.png)
 ## 3.Runtime相关面试问题思维导图 
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181205171208.png)
+![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181205172201.png)
 ## 4.内存管理相关面试问题思维导图  
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181205171220.png)
+![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181205171652.png)
 ## 5.Block相关面试问题思维导图 
 ![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181205171241.png)
 ## 6.多线程相关面试问题思维导图  
